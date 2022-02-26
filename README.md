@@ -1,2 +1,4 @@
 # Mission-to-Mars
-This will scrape web data all about the planet Mars and collect it in a unique URL for others to use.
+This project scrapes web data about the planet Mars, gathers it into a MongoDB database, then uses Flask to create a webpage to visualize this data.
+
+Some Bootstrap functionality was used on the HTML code to make the information more readable. 
